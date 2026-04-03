@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Ravi Sharma Dental Clinic",
+  "description": "Premium dental care in Indore. Advanced treatments with precision and comfort by Dr. Ravi Sharma.",
+  "requestFramePermissions": ["geolocation"]
+}
